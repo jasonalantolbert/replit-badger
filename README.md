@@ -5,3 +5,7 @@ Generates Markdown for adding a "Run on Repl.it" badge to the `README.md` file o
 [![Run on Repl.it](https://repl.it/badge/github/jasonalantolbert/replit-badger)](https://repl.it/@jasontolbertjr/replit-badger)
 
 Check it out: https://replit-badger.herokuapp.com/
+
+## License
+
+Repl.it Badger's source code is released under the MIT License.
